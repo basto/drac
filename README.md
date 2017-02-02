@@ -1,5 +1,7 @@
 # Drac
 
+![bat](./bat.ico)
+
 ## Summary
 
 ### Containers:
