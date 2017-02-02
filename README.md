@@ -1,15 +1,23 @@
-#Containers:
-##1. HeaderContainer
-##2. FooterContainer
-##3. CardContainer
+# Drac
 
-#Cards:
-##1. TitleCard
-##2. ImageCard
-##3. VideoCard
-##4. LinkCard
-##5. ParaCard
+## Summary
 
+### Containers:
+* HeaderContainer  
+* FooterContainer  
+* CardContainer  
 
+### Cards:
+* TitleCard
+* ImageCard
+* VideoCard
+* LinkCard
+* ParaCard
 
-###Inspired by Dracula
+## Authors
+* Abdulqader Almetwali [@abdulmi](https://github.com/abdulmi)  
+* Sufien Tout [@suft](https://github.com/suft)
+
+## Inspirations
+
+Dracula [@dracula-theme](https://github.com/dracula/dracula-theme)
