@@ -14,6 +14,9 @@
 * LinkCard
 * ParaCard
 
+## Dependencies
+React [@react](https://facebook.github.io/react/)
+
 ## Authors
 * Abdulqader Almetwali [@abdulmi](https://github.com/abdulmi)  
 * Sufien Tout [@suft](https://github.com/suft)
